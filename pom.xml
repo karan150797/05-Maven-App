@@ -5,6 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <packaging>pom</packaging>
+
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-core -->
+  <dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>5.3.13</version>
+  </dependency>
+
   
   <modules>
   	<module>User-Module</module>
