@@ -5,6 +5,13 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <packaging>pom</packaging>
+
+  <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+  <dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-context</artifactId>
+    <version>5.3.13</version>
+  </dependency>
   
   <modules>
   	<module>User-Module</module>
