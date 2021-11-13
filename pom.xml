@@ -11,6 +11,13 @@
     <groupId>org.springframework</groupId>
     <artifactId>spring-core</artifactId>
     <version>5.3.13</version>
+
+  <!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa -->
+  <dependency>
+    <groupId>org.springframework.data</groupId>
+    <artifactId>spring-data-jpa</artifactId>
+    <version>2.5.6</version>
+
   </dependency>
 
   
