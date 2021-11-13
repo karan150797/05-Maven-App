@@ -5,6 +5,14 @@
   <version>0.0.1-SNAPSHOT</version>
   
   <packaging>pom</packaging>
+
+  <!-- https://mvnrepository.com/artifact/org.springframework.data/spring-data-jpa -->
+  <dependency>
+    <groupId>org.springframework.data</groupId>
+    <artifactId>spring-data-jpa</artifactId>
+    <version>2.5.6</version>
+  </dependency>
+
   
   <modules>
   	<module>User-Module</module>
